@@ -2,16 +2,12 @@
 TextUtils is a simple and efficient React-based web application that allows users to perform various text manipulation tasks such as converting case, removing extra spaces, copying text, and more. It's designed with a clean UI and supports light/dark mode for better user experience.
 
 🚀 Features
+
 🔠 Convert text to uppercase or lowercase
-
 🧹 Remove extra spaces
-
 📋 Copy text to clipboard
-
 📊 Count words, characters, and reading time
-
 🌗 Dark/Light mode toggle for better readability
-
 📱 Responsive design
 
 🖼️ Demo
@@ -19,11 +15,8 @@ Live Demo (https://textutlils.vercel.app/)
 
 🔧 Tech Stack
 React.js
-
 JavaScript
-
 HTML5 & CSS3
-
 Bootstrap (optional, if used)
 
 📸 Screenshots
@@ -50,28 +43,25 @@ TextUtils/
 │
 ├── package.json
 └── README.md
+
+
 ⚙️ Installation & Setup
 bash
 Copy
 Edit
 # Clone the repo
 git clone https://github.com/your-username/TextUtils.git
-
 # Navigate to the project directory
 cd TextUtils
-
 # Install dependencies
 npm install
-
 # Start the development server
 npm start
+
 📌 How to Use
 Type or paste your text into the input box.
-
 Use the buttons to apply desired transformations.
-
 View statistics like word count, character count, and estimated reading time.
-
 Switch between dark and light themes.
 
 🧑‍💻 Author
