@@ -21,7 +21,8 @@ Bootstrap (optional, if used)
 
 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/f49e33d1-a988-40ec-8265-c7b5e8c963f3)
-![image](https://github.com/user-attachments/assets/836457b7-9bac-402a-9cbc-5a2af65c700d)
+![image](https://github.com/user-attachments/assets/51b6e67b-9f6d-43cc-94ce-b995ce6f8f06)
+
 
 
 
